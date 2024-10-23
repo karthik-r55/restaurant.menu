@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.food-section{
+    background-color: #f9fbfe;
+}
+.food-image{
+    width: 270px;
+}
+.food-image{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.food-paragah{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.food-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    border-right: 10px;
+}
+.delivery-imag{
+         width: 270px;
+}
+.payment-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.background{
+    background-color: #d0b1002d;
+}
+.gift-img{
+    width: 270px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navitem1{
+    color: black;
+    font-family: "Roboto";
+}
+#navitem2{
+    color: black;
+    font-family: "Roboto";
+}
+#navitem3{
+    color: black;
+    font-family: "Roboto";
+}
+#navitem4{
+    color: black;
+    font-family: "Roboto";
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    background-color: #bbb;
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+}
+.banner-bg-container{
+    height: 100vh;
+    background-image: url("https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/recipes-1657874104_0bf6e33f49922c4dff87.webp");
+    background-size: cover;
+}
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300px;
+}
+.banner-caption{
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+.custom-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.custom-outlinr-button{
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1;
+    border-style: solid;
+    border-radius: 8px;
+   border-color: #d0b200;
+   font-weight: bolder;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+}
+.wcu-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.wcu-paragaraph{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-image{
+    height: 90px;
+    width: 87px;
+
+}
+.wcu-image-heading{
+    font-family: "Roboto";
+    font-weight: 500px;
+    font-size: 22px;
+    color: #323f4b;
+}
+.wcu-image-paragaraph{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+.offer{
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
+.menu-container{
+    background-color: white;
+}
+.menu-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.boreder-curve{
+    border-radius: 16px;
+    
+}
+.menu-card-title{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.menu-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+}
+.food-section{
+    background-color: #f9fbfe;
+}
+.food-image{
+    width: 270px;
+}
+.food-image{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.food-paragah{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.food-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    border-right: 10px;
+}
+.delivery-imag{
+         width: 270px;
+}
+.payment-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.background{
+    background-color: #d0b1002d;
+}
+.gift-img{
+    width: 270px;
+    margin-bottom: 20px;
+}
+.follow-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+.end-img{
+    height: 250px;
+    width: 250px;
+}
+.icon{
+    font-size: 35px;
+}
+.icon-section{
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 40px;
+}
+.gift-voucher{
+    color: #d0b200;
+    font-weight: 800;
+}
